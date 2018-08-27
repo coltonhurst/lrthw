@@ -20,3 +20,5 @@ puts "Alright, all done."
 
 out_file.close
 in_file.close
+
+# You can open a file for specific purposes. Use the 'w' for writing to a file.

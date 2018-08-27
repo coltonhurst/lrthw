@@ -19,3 +19,6 @@ puts "The number is %{num}" % {num: 5}      # with hash parameter
 puts "Index 1: %s, Index 2: %s" % [5, 10]   # with array as parameter
 
 puts "A value: %s" % 5                      # with one value
+
+# There are multiple ways to print strings, and you can create format strings to print them in a certain way.
+# This is especially helpful when you want to print a string in the same format many times.

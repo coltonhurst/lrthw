@@ -32,3 +32,6 @@ target.write("\n")
 
 puts "And finally, we close it."
 target.close
+
+# .truncate() will delete everything in the file.
+# .write() will write things to the file.

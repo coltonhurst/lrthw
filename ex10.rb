@@ -13,3 +13,5 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
+
+# Shows how to escape characters with '\', and how to do other special things like tabs or newlines.

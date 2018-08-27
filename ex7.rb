@@ -23,3 +23,5 @@ puts end7 + end8 + end9 + end10 + end11 + end12
 # Note:
 # 'puts' outputs the string, and a newline at the end.
 # 'print' outputs the string, but there is no newline at the end.
+
+# multiplying a line makes it repeat. So line 4 prints 10 periods '.'

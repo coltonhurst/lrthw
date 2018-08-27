@@ -21,3 +21,6 @@ puts "How about some more."
 puts "Is it greater? #{5 > -2}"
 puts "Is it greater or equal? #{5 >= -2}"
 puts "Is it less or equal? #{5 <= -2}"
+
+# The '#{}' allows you to put an expression inside of a string, and print the results within the string.
+# You can also do math and output the results with 'puts'

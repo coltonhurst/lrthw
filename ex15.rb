@@ -14,3 +14,7 @@ print txt_again.read
 
 txt.close
 txt_again.close
+
+# open() will open a file.
+# .read on a file will get the text of the file.
+# .close closes the file.
